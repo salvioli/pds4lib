@@ -139,3 +139,7 @@ cython_debug/
 
 # Jetbrains
 *.iml
+.idea/
+
+# Project test out folder
+/test/resources/update_collection_out/

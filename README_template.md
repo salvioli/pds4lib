@@ -5,6 +5,7 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+<!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/salvioli/pds4lib>
@@ -27,6 +28,7 @@
   </p>
 </p>
 
+<!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
 * [About the Project](#about-the-project)
@@ -42,6 +44,7 @@
 * [Acknowledgements](#acknowledgements)
 
 
+<!-- ABOUT THE PROJECT -->
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
@@ -57,6 +60,8 @@ Here's a blank template to get started:
 * []()
 * []()
 
+
+<!-- GETTING STARTED -->
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
@@ -80,6 +85,8 @@ git clone https://github.com/salvioli/repo.git
 npm install
 ```
 
+
+<!-- USAGE EXAMPLES -->
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
@@ -87,11 +94,13 @@ Use this space to show useful examples of how a project can be used. Additional 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 
+<!-- ROADMAP -->
 ## Roadmap
 
 See the [open issues](https://github.com/salvioli/repo/issues) for a list of proposed features (and known issues).
 
 
+<!-- CONTRIBUTING -->
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -102,15 +111,20 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+
+<!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
+
+<!-- CONTACT -->
 ## Contact
 
 Federico Salvioli - [@fedesalvio](https://twitter.com/fedesalvio) - salvioli.federico@gmail.com
 Project Link: [https://github.com/salvioli/pds4lib](https://github.com/salvioli/pds4lib)
 
+<!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
 * []()
